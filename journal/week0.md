@@ -24,3 +24,5 @@ I created a billing alarm via the Cloudwatch console
 I recreated the logical diagram design
 
 ![Cruddur Logical Design](assets/Cruddur%20Logical%20Diagram.png)
+
+[Lucid Chart Share Link](https://lucid.app/lucidchart/3341921d-ea6c-48a9-8d13-33cefd63a23a/edit?viewport_loc=-420%2C-824%2C2220%2C924%2C0_0&invitationId=inv_dcef8b66-5232-4507-83bf-bfbc77343844)
