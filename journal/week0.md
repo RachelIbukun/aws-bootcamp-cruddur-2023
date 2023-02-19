@@ -11,13 +11,13 @@ This was not possible at first because the initial response I got was that I did
 ### Create a Budget
 I created a budget via the Billing console. I created my budget for $2 to avoid overspending. I only created one budget to avoid overspending my free limit in two places.
 
-![Image Of The Budget Alarm I Created] (assets/budget.png)
+![Image Of The Budget Alarm I Created](assets/budget.png)
 
 
 ### Create a Billing Alarm
 I created a billing alarm via the Cloudwatch console
 
-![Image Of The illing Alarm I Created] (assets/billing-alarm.png)
+![Image Of The illing Alarm I Created](assets/billing-alarm.png)
 
 
 ### Recreate Conceptual Diagram in Lucid Charts
