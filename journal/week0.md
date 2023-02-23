@@ -41,4 +41,4 @@ I recreated the logical diagram design
 ### Recreating Conceptual Diagram On My Napkin
 I recreated the conceptual diagram of cruddur on my napkin with a pen and napkin.
 
-![Realtime Napkin Diagram](realtime-napkin-diagram.png.jpg)
+![Realtime Napkin Diagram](assets/realtime-napkin-diagram.png.jpg)
