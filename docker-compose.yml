@@ -21,7 +21,8 @@ services:
     ports:
       - "3000:3000"
     volumes:
-      - ./frontend-react-js:/frontend-react-js  xray-daemon:
+      - ./frontend-react-js:/frontend-react-js 
+  xray-daemon:
     image: "amazon/aws-xray-daemon"
     environment:
       AWS_ACCESS_KEY_ID: "${AWS_ACCESS_KEY_ID}"
